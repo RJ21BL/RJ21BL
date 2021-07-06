@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard
+- 👋 Hi, I’m Rich
 - 👀 I’m currently learning how to code in Ruby & Javascript!
 - 💞️ I’m looking to collaborate on anything fun!
 

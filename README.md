@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Rich
-- 👀 I’m currently learning how to code in Ruby & Javascript!
-- 💞️ I’m looking to collaborate on anything fun!
 
 <!---
 RJ21BL/RJ21BL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
